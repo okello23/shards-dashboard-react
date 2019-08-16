@@ -39,11 +39,12 @@ const ComponentsOverview = () => (
         <i className="fa fa-info mx-2"></i> How you doin'? I'm just a friendly, good-looking notification message and I come in all the colors you can see below. Pretty cool, huh?
       </Alert>
     </Container>
+
     <Container fluid className="main-content-container px-4">
       <Row noGutters className="page-header py-4">
         <PageTitle
           sm="4"
-          title="Forms & Components"
+          title="Forms & Compones"
           subtitle="Overview"
           className="text-sm-left"
         />
